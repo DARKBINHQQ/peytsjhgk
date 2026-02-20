@@ -565,7 +565,7 @@ body {
 }
 
 .glow {
-    border: 3px solid #8b0000;
+    border: 3px solid var(--accent);
    
     animation: glow 1.5s infinite alternate;
 }
