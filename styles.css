@@ -1,10 +1,9 @@
 :root {
-    --purple: #8b0000;
-    --light-purple: #ff4d4d;
-    --white: #f5f5f5;
-    --dark-bg: #121212;
+    --accent: #d6c6a8;
+    --accent-soft: #f0e6d2;
+    --accent-dim: #9f937c;
+    --bg-dark: #0a0a0f;
 }
-
 #overlay {
     position: fixed;
     top: 0;
