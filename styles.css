@@ -709,5 +709,16 @@ audio {
 .video-circle video {
   width: 100%;
   height: 100%;
-  object-fit: cover;  /* THIS is the important part */
+  object-fit: cover;
+}
+
+.profile-card-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.profile-card {
+    width: 300px;
 }
